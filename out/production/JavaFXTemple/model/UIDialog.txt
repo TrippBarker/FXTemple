@@ -1,0 +1,4 @@
+Welcome player, please select one of the following character types: [WARRIOR] [ROGUE] [RANGER]
+That is not a valid selection
+Character selection complete!
+What will you do now?
